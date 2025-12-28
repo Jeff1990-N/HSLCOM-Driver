@@ -1,7 +1,7 @@
 # HSLCOM-Driver
 Driver for industrial communication
 
-============The old server was no longer in use, and the project relocated here from V2.1.5================
+============The old server was no longer in use, and the project relocated here================
 
 
 1. This driver for S7, CAN2.0, CANFD, UDS, XCP via ZLG-CAN
